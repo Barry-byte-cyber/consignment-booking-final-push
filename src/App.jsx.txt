@@ -1,0 +1,10 @@
+function App() {
+  return (
+    <div>
+      <h1>Consignment Booking App</h1>
+      <p>Welcome! This is your first deployed Vite + React app.</p>
+    </div>
+  );
+}
+
+export default App;
